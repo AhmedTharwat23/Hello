@@ -1,2 +1,3 @@
 Hello
-My Names is Ahmed.
+My Name is Ahmed.
+I want to learn git.
